@@ -6,7 +6,7 @@ import org.junit.Test;
 
 
 public class CensusAnalyserTest {
-	private static final String INDIA_CENSUS_CSV_FILE_PATH = "C:\\Users\\Rajani daddimani\\Desktop\\java basic porgrams\\Indian_Census_Anlyser\\IndiaStateCensusData.csv";
+	private static final String INDIA_CENSUS_CSV_FILE_PATH ="C:\\Users\\Rajani daddimani\\Desktop\\java basic porgrams\\Indian_Census_Anlyser\\IndiaStateCensusData.csv";
 
     @Test
     public void givenIndianCensusCSVFileReturnsCorrectRecords() {
